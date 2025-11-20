@@ -1,4 +1,10 @@
+core.microsoft*
+core.mongo*
+core.python*
+*.py[cod]
+node_modules/
 .venv/
 env.py
 __pycache__/
 .github/
+blog/fixtures/
